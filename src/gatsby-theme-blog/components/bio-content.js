@@ -7,10 +7,8 @@ import { Styled } from "theme-ui"
 
 export default () => (
   <Fragment>
-    This is where <Styled.a href="http://example.com/">your name</Styled.a>
-    {` `}
-    goes.
+    Hello, my name is Jerome Agustin.
     <br />
-    Or whatever, you make the rules.
+    This is my Gatsby Theme Blog hosted using GitHub pages.
   </Fragment>
 )
